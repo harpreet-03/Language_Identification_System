@@ -49,7 +49,9 @@ A robust language identification system built using **Naïve Bayes**, **Convolut
 ## 📂 Project Structure
 
 ├── Language_detection.ipynb # Main notebook with preprocessing, modeling, and evaluation
+
 ├── Language_Detection.csv # Dataset file (text samples and labels)
+
 ├── README.md # Project documentation
 
 ---
